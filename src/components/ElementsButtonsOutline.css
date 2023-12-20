@@ -1,0 +1,36 @@
+.base7 {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: 8px;
+  border: 2px solid #345eee;
+  box-sizing: border-box;
+}
+.base7,
+.button-text1,
+.button1 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.button-text1 {
+  top: 27.5%;
+  letter-spacing: -0.4px;
+  font-weight: 600;
+  display: inline-block;
+}
+.button1 {
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.elements-buttons-outline {
+  width: 148px;
+  height: 40px;
+  text-align: center;
+  font-size: 16px;
+  color: #345eee;
+  font-family: Inter;
+}
